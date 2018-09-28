@@ -7,6 +7,9 @@ Current Version : **3.2**
 An enhanced Sublime Text's dark color scheme covering following languages :
 
 + HTML
+
+![HTML Syntaxs Coloring](http://www.kelasabil.com/kaf/img/screenshots/ensign-html.png "HTML Syntaxs Coloring")
+
 + CSS
 + JS
 + PHP
