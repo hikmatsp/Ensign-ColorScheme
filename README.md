@@ -1,9 +1,10 @@
 # Ensign
-Sublime Text Color Scheme
+
+Color Scheme for Sublime Text and TextMate 
 
 Current Version : **3.2**
 
-An enhanced Sublime Text's dark color scheme. Color sheme for highliting following languages :
+An enhanced Sublime Text's dark color scheme covering following languages :
 
 + HTML
 + CSS
