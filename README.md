@@ -1,6 +1,6 @@
 # Ensign
 
-Color Scheme for Sublime Text and TextMate 
+**Color Scheme** for Sublime Text and TextMate 
 
 Current Version : **3.2**
 
