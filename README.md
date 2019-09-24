@@ -1,7 +1,6 @@
 # Ensign
 
-**Color Scheme** for Sublime Text and TextMate 
-A slight modification of SpaceCadet by Alex Ross.
+**Color Scheme** for Sublime Text and TextMate. A slight modification of SpaceCadet by Alex Ross.
 
 Current Version : **3.2**
 
