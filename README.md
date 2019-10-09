@@ -1,37 +1,47 @@
 # Ensign
 
-**Color Scheme** for Sublime Text and TextMate. A slight modification of SpaceCadet by Alex Ross.
-
 Current Version : **3.2**
 
-An enhanced Sublime Text's dark color scheme covering following languages :
 
-## HTML
+A Dark Color Scheme for Sublime Text v.3. A modification of SpaceCadet by Alex Ross. Add support for most common code scopes and syntaxes covering following languages :
 
-![HTML Syntaxs Coloring](http://www.kelasabil.com/kaf/img/screenshots/ensign-html.png "HTML Syntaxs Coloring")
+## HTML HyperText Markup Language 
 
-## CSS
+![HyperText Markup Language Syntax Coloring](https://www.kelasabil.com/kaf/img/screenshots/ensign-html.png "HyperText Markup Language Syntax Coloring")
 
-![CSS Syntaxs Coloring](http://www.kelasabil.com/kaf/img/screenshots/ensign-css.png "CSS Syntaxs Coloring")
+## MD MarkDown
 
-+ JS
+![Markdown Syntax Coloring](https://www.kelasabil.com/kaf/img/screenshots/ensign-md.png "Markdown Syntax Coloring")
+
+## CSS Cascading Style Sheet
+
+![Cascading Style Sheet Syntax Coloring](https://www.kelasabil.com/kaf/img/screenshots/ensign-css.png "Cascading Style Sheet Syntax Coloring")
+
+## JS JavaScript
+
+![JavaScript Syntaxs Coloring](https://www.kelasabil.com/kaf/img/screenshots/ensign-js.png "JavaScript Syntax Coloring")
+
+## JSon JavaScript Object Notation (20 level deep arrays)
+
+![JavaScript Object Notation Syntax Coloring](https://www.kelasabil.com/kaf/img/screenshots/ensign-20-level-deep-json.png "JavaScript Object Notation Syntax Coloring")
+
+## XML 
+
+![eXtensible Markup Language Syntax Coloring](https://www.kelasabil.com/kaf/img/screenshots/ensign-xml.png "JavaScript Syntax Coloring")
+
 + PHP
-+ Json (20 level deep arrays)
-+ XML
 + Python
-+ Nunjucks
 + Twig
++ C
++ Nunjucks
 + Jade
 + Coffee
 + Plist
 + Diff
-+ Markdown
-+ C
 + Ruby
 + YAML
 + Find &amp; Replace
 + GitGutter
 + SublimeLinter
 + and Wiki based text.
-
 
