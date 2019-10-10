@@ -49,3 +49,5 @@ A Dark Color Scheme for Sublime Text v.3. A modification of SpaceCadet by Alex R
 + SublimeLinter
 + and Wiki based text.
 
+
+(c) 2015-2019 [Hikmat Surya Permana](https://www.kelasabil.com/penulis/hsp "Hikmat Surya Permana"). Under MIT License.
