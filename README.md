@@ -28,7 +28,7 @@ A Dark Color Scheme for Sublime Text v.3. A modification of SpaceCadet by Alex R
 
 ## XML 
 
-![eXtensible Markup Language Syntax Coloring](https://www.kelasabil.com/kaf/img/screenshots/ensign-xml.png "JavaScript Syntax Coloring")
+![eXtensible Markup Language Syntax Coloring](https://www.kelasabil.com/kaf/img/screenshots/ensign-xml.png "XML Syntax Coloring")
 
 + PHP
 + Python
