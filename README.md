@@ -50,4 +50,4 @@ A Dark Color Scheme for Sublime Text v.3. An enhancement of SpaceCadet by Alex R
 + and Wiki based text.
 
 
-(c) 2015-2019 [Hikmat Surya Permana](https://www.kelasabil.com/penulis/hsp "Hikmat Surya Permana"). Under MIT License.
+(c) 2015-2023 [Hikmat Surya Permana](https://www.kelasabil.com/penulis/hsp "Hikmat Surya Permana"). Under MIT License.
